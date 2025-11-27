@@ -104,7 +104,7 @@ Sales_and_Customer_Insights_Dashboards_Interactive_Tableau_project/
 
 If you’d like to clone this project:
 
-git clone https://github.com/<your-username>/Sales_and_Customer_Insights_Dashboards_Interactive_Tableau_project.git
+git clone https://github.com/GurionRamapoguSajeevan/Sales_and_Customer_Insights_Dashboards_Interactive_Tableau_project.git
 
 cd Sales_and_Customer_Insights_Dashboards_Interactive_Tableau_project
 
