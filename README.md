@@ -114,4 +114,4 @@ This project is released under the _MIT License_, allowing open, flexible use wi
 
 🙌 Acknowledgments
 
-Thanks to **Data With Baraa** for full-length guided tutorial for developing this Dashboard. 
+Thanks to [**Data With Baraa**](https://www.datawithbaraa.com/) for full-length guided tutorial for developing this Dashboard. 
