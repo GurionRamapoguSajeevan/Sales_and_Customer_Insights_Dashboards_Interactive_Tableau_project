@@ -1,14 +1,14 @@
 # Tableau Project: Sales & Customer Performance Trends
 
+# 🔗 Live Interactive Dashboards on Tableau Public
+
+[***View here***](https://public.tableau.com/app/profile/gurion.ramapogu/viz/SalesCustomerDashboards_17642103195010/SalesDashboard)
+
 ## 📘 Project Overview
 
 This project features two fully interactive Tableau dashboards: *Sales Performance and Customer Insights* — designed to help business stakeholders monitor KPIs, analyze year-over-year (YoY) trends, explore product and customer segments, and uncover actionable insights through dynamic visual analytics.
 
 The dashboards were built to support sales managers, executives, and marketing teams in making informed, data-driven decisions.
-
-# 🔗 Live Interactive Dashboards on Tableau Public
-
-[***View here***](https://public.tableau.com/app/profile/gurion.ramapogu/viz/SalesCustomerDashboards_17642103195010/SalesDashboard)
 
 # Key Features
 
