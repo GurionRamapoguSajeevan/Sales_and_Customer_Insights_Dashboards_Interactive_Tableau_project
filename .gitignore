@@ -1,0 +1,14 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python cache (if you add scripts later)
+__pycache__/
+*.pyc
+
+# VSCode or IDE files
+.vscode/
+.idea/
+
+# Tableau backup files
+*.twb.backup
